@@ -1,15 +1,7 @@
-[submodule "Mods/HotMultiCooker"]
-	path = Mods/HotMultiCooker
-	url = https://github.com/Hengle/HotMultiCooker.git
-[submodule "Mods/RemakePak"]
-	path = Mods/RemakePak
-	url = https://github.com/Hengle/RemakePak.git
 [submodule "Mods/libzstd"]
 	path = Mods/libzstd
-	url = https://github.com/Hengle/ue-zstd.git
-[submodule "Mods/HotChunker"]
-	path = Mods/HotChunker
-	url = https://github.com/Hengle/HotChunker.git
+	url = https://github.com/Hengle/ue4-zstd.git
+
 
 [submodule "Mods/HDiffPatchUE"]
 	path = Mods/HDiffPatchUE
@@ -20,9 +12,4 @@
 [submodule "Mods/ShaderPatcherUE"]
 	path = Mods/ShaderPatcherUE
 	url = https://github.com/Hengle/ShaderPatcherUE.git
-[submodule "Mods/PakAnalyzerUE"]
-	path = Mods/PakAnalyzerUE
-	url = https://github.com/Hengle/PakAnalyzerUE.git
-[submodule "Mods/PSOPackerUE"]
-	path = Mods/PSOPackerUE
-	url = https://github.com/Hengle/PSOPackerUE.git
+
