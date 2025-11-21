@@ -1,28 +1,28 @@
 [submodule "Mods/HotMultiCooker"]
 	path = Mods/HotMultiCooker
-	url = git@github.com:Hengle/HotMultiCooker.git
+	url = https://github.com/Hengle/HotMultiCooker.git
 [submodule "Mods/RemakePak"]
 	path = Mods/RemakePak
-	url = git@github.com:Hengle/RemakePak.git
+	url = https://github.com/Hengle/RemakePak.git
 [submodule "Mods/libzstd"]
 	path = Mods/libzstd
-	url = git@github.com:Hengle/ue-zstd.git
+	url = https://github.com/Hengle/ue-zstd.git
 [submodule "Mods/HotChunker"]
 	path = Mods/HotChunker
-	url = git@github.com:Hengle/HotChunker.git
+	url = https://github.com/Hengle/HotChunker.git
 
 [submodule "Mods/HDiffPatchUE"]
 	path = Mods/HDiffPatchUE
-	url = git@github.com:Hengle/HDiffPatchUE.git
+	url = https://github.com/Hengle/HDiffPatchUE.git
 [submodule "Mods/GameFeaturePacker"]
 	path = Mods/GameFeaturePacker
-	url = git@github.com:Hengle/GameFeaturePacker.git
+	url = https://github.com/Hengle/GameFeaturePacker.git
 [submodule "Mods/ShaderPatcherUE"]
 	path = Mods/ShaderPatcherUE
-	url = git@github.com:Hengle/ShaderPatcherUE.git
+	url = https://github.com/Hengle/ShaderPatcherUE.git
 [submodule "Mods/PakAnalyzerUE"]
 	path = Mods/PakAnalyzerUE
-	url = git@github.com:Hengle/PakAnalyzerUE.git
+	url = https://github.com/Hengle/PakAnalyzerUE.git
 [submodule "Mods/PSOPackerUE"]
 	path = Mods/PSOPackerUE
-	url = git@github.com:Hengle/PSOPackerUE.git
+	url = https://github.com/Hengle/PSOPackerUE.git
